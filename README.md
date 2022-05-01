@@ -35,8 +35,7 @@ To simulate a Monopoly game, we chose to use several design patterns that we hav
 The class diagram represented below is the diagram we used to create our C# model.
 ![](./images/project_4.png)
 
-This model is particularly efficient because it also lists the attributes, methods, and additional
-information about the classes.
+This model is particularly efficient because it also lists the attributes, methods, and additional information about the classes.
 
 ### 2. Sequence diagram
 After initializing the game, each player collects his dice value, and the system calculates his new square. 
